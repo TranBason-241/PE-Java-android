@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_LoafDataFromInternal"
+        android:orderInCategory="100"
+        android:title="Load  data from Internal"
+        android:onClick="clickToLoadDataFromInternal" />
+</menu>
